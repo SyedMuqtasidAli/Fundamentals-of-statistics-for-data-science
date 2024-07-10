@@ -24,7 +24,7 @@ This dataset will be used to perform various statistical calculations, including
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/statistics-for-data-science.git
+    git clone https://github.com/syed-muqtasid-ali/statistics-for-data-science.git
     ```
 
 2. **Navigate to the project directory**:
